@@ -55,3 +55,20 @@
   > |![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/dcf4bbf6-c10a-4354-a6ec-b00ca59b6fac)|![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/5c111a0d-e4a0-4306-9d3c-2b1dcad7ca5a)|
 
 </details>
+
+<details>
+  
+  <summary> 3. Hide & Find (Photon) </summary>
+
+  > * 개발기간: 21년 3월 22일 ~ 21년 4월 1일
+
+  > * ver. 2019.4.18f1
+
+  > * Unity에서 이용가능한 Photon서버을 활용한 네트워크 멀티플레이 게임 <br> 플레이어와 NPC가 모두 동일하게 생겼는데, 그들 속에 숨어(Hide) 있다가 상대방 플레이어를 모두 찾아(Find) 먼저 제거하면 최종 승리하는 게임
+
+  > * **"Hide & Find Url:** *https://youtu.be/HpZs9oJlwQ0"*
+  <br><br> ![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/459decdc-aa0c-4989-b55f-b1fbe4e305b8)
+
+</details>
+
+
