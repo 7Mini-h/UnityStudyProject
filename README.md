@@ -73,7 +73,6 @@
 </details>
 
 
-
 <details>
   
   <summary> 4. 신나는 과학 cARd놀이 (AR) </summary>
@@ -88,8 +87,11 @@
 
   > * **"Rush Url:** *https://youtu.be/gwlRrE1Z6T0"*
 
-  > * 컨셉구상
-  > <br>![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/fa94f85d-428c-4fc1-bcc2-e43f3cc4990d)
+  > * 제작 된 패키지
+  
+  > |포장지(앞)|포장지(뒤)|내용물(앞)|내용물(뒤)|
+  > |--|--|--|--|
+  > |![KakaoTalk_20231011_144503387_01](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/b87b4795-16ea-45de-87c9-2b1bc7f5ddff)|![KakaoTalk_20231011_144503387_02](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/92fd9a08-44ac-4889-a3cd-8b8bf0ecfbea)|![KakaoTalk_20231011_150422150_01](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/d5b83d22-ae60-4fc4-9ab6-cc4354bee6db)|![KakaoTalk_20231011_150422150](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/05332664-cdc1-438c-aa92-f2fcba3b5620)|
 
 
 </details>
