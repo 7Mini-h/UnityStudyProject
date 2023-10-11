@@ -56,6 +56,7 @@
 
 </details>
 
+
 <details>
   
   <summary> 3. Hide & Find (Photon) </summary>
@@ -72,3 +73,23 @@
 </details>
 
 
+
+<details>
+  
+  <summary> 4. 신나는 과학 cARd놀이 (AR) </summary>
+
+  > * 개발기간: 21년 4월 7일 ~ 21년 5월 26일
+
+  > * ver. 2020.3.3f1
+
+  > * Unity AR Foundation을 활용해 진행한 프로젝트
+  > * Android AR Core를 통해 Marker방식으로 개발 
+  > * 초등학교 6학년을 타겟으로 한 과학교육용 컨텐츠(전기의 작용)로 발표(전시)용 패키지까지 제작
+
+  > * **"Rush Url:** *https://youtu.be/gwlRrE1Z6T0"*
+
+  > * 컨셉구상
+  > <br>![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/fa94f85d-428c-4fc1-bcc2-e43f3cc4990d)
+
+
+</details>
