@@ -93,5 +93,28 @@
   > |--|--|--|--|
   > |![KakaoTalk_20231011_144503387_01](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/b87b4795-16ea-45de-87c9-2b1bc7f5ddff)|![KakaoTalk_20231011_144503387_02](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/92fd9a08-44ac-4889-a3cd-8b8bf0ecfbea)|![KakaoTalk_20231011_150422150_01](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/d5b83d22-ae60-4fc4-9ab6-cc4354bee6db)|![KakaoTalk_20231011_150422150](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/05332664-cdc1-438c-aa92-f2fcba3b5620)|
 
+ > * Scene 구성
+> 1. PermissionScene
+> <br>  :  AR기능을 위해 필요한 기기 카메라의 작동 권한을 요청하는 Scene으로, 미리 권한을 요청하여 앱 이용 중간에 흐름이 끊기는 것을 방지
+
+> 2. InroScene
+> <br>  : 신나는 과학 cARd놀이의 로고를 영상 RenderTexture를 통해 화면에 보여주며 필요한 자료를 Loading하는 Scene
+
+> 3. StartScene(Menu)
+> <br>  : 앱의 Lobby Scene
+>>  ![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/e8291c7b-7fad-4e63-a909-8b44edd2dbe0) Sound설정 및 저장되어 있는 기존 데이터를 삭제할 수 있는 메뉴
+>>  <br> ![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/2997f45c-e85d-4852-b391-37700148dc18) 앱에 대한 간단한 설명을 제공
+
+> 4. WorldMapScene
+> <br>  : 학습 할 Stage를 고르는 Scene 클리어 기록이 있을 시, 실루엣 이미지가 활성화 되고 다음 Stage가 활성화 됨
+
+> 5. StoryScene
+> <br>  : 학습의 재미를 위해 Main스토리가 진행되는 Scene으로 선택된 Stage에 맞는 텍스트 파일을 Resources로 부터 읽어와 자동으로 출력 됨
+  <br> 추가 적으로, 각 텍스트 파일에서 출력될 캐릭터의 이름, 캐릭터의 이미지를 함께 관리할 수 있음
+
+> 6. ARScene
+<br>  : 스테이지에 맞는 XR Reference Image Library를 읽어오고, 해당하는 Marker를 인식해 올바른 위치에 가져다 놓으면 Clear조건을 만족하여 다음 단계를 진행 할 수 있음
+
+> ![image](https://github.com/7Mini-h/UnityStudyProject/assets/147138891/bf9080af-0bdb-4dfc-9c47-c9bd36f76979)
 
 </details>
